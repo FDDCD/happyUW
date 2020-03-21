@@ -1,0 +1,6 @@
+//*********************************************************************
+//*  Input data for DIC Analysis (based on OpenCV)                    *
+//*********************************************************************
+sDIR_data  = "Result_opencv"; // Directory for the data save
+n_width    = 100; // Number of subdivision (width) 
+n_height   = 20; // Number of subdivision (height) 
